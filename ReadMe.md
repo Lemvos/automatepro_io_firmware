@@ -1,4 +1,6 @@
 # AutomatePro IO Controller Firmware
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_io_firmware.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_io_firmware?ref=badge_shield)
+
 
 This repository contains the firmware for the AutomatePro IO controller. The firmware files are provided in HEX format and can be used to update or restore the firmware on your controller.
 
@@ -45,6 +47,9 @@ The previous_versions directory contains archived versions of the firmware. Thes
 ## License
 
 This project is licensed under the terms found in the LICENSE file in this repository. Please refer to this file for full licensing details.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_io_firmware.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FLemvos%2Fautomatepro_io_firmware?ref=badge_large)
 
 ## Support
 
